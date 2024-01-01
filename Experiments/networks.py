@@ -1,6 +1,5 @@
 """This file is from the Python package neurodiffeq.
 """
-
 import torch
 import torch.nn as nn
 from warnings import warn
