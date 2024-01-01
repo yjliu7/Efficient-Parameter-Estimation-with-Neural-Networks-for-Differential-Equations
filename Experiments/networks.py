@@ -1,4 +1,4 @@
-""" This file is from the Python package neurodiffeq.
+"""This file is from the Python package neurodiffeq.
 """
 
 import torch
