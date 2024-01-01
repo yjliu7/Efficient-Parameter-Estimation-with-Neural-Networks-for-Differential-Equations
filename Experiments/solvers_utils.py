@@ -1,6 +1,5 @@
 """This file is from the Python package neurodiffeq.
 """
-
 import os
 import json
 import dill
